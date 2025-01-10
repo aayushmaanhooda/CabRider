@@ -1,4 +1,4 @@
-# Practice NumPy with real data for beginners
+# 6 Numpy Practise questions with real data for beginners
 
 # NYC Taxi Rides Analysis
 
